@@ -1,2 +1,2 @@
 # My-Resource
-Is
+Is just a simple exam.
